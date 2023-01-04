@@ -17,8 +17,35 @@ https://help.tableau.com/current/pro/desktop/en-us/environ_workbooksandsheets.ht
 
 ## Here we have created a data visualization for a superstore using tableau:
 
-Here we are creating a sheet for factors that are affecting the sales and profit for a super store.
-which can be achieved using Line chart
+### Here we are creating a sheet for factors that are affecting the sales and profit for a super store using Line chart
+
+![alt text](https://github.com/Ashreejain/Tableau-Dashboard-for-SuperStore/blob/main/Trends.png)
+
+### Here we are creating a sheet for factors that are affecting the sales and profit for a super store using Heat Map.
+
+![alt text](https://github.com/Ashreejain/Tableau-Dashboard-for-SuperStore/blob/main/HeatMap.png)
+
+### Here we are creating a sheet for factors that are affecting the sales and profit for a super store using Tree Map.
+
+![alt text](https://github.com/Ashreejain/Tableau-Dashboard-for-SuperStore/blob/main/TreeMap.png)
+
+### Here we are creating a sheet for factors that are affecting the sales and profit for a super store using Scatter Plot
+
+![alt text](https://github.com/Ashreejain/Tableau-Dashboard-for-SuperStore/blob/main/scatterplot.png)
+
+### Here is the dashboard which is collection of the above sheets
+
+![alt text](https://github.com/Ashreejain/Tableau-Dashboard-for-SuperStore/blob/main/Dashboard.png)
+
+## Here is the link for the original dashboad which can be used for practise purpose.
+
+https://github.com/Ashreejain/Tableau-Dashboard-for-SuperStore/blob/main/Dashboard.twbx
+
+
+
+
+
+
 
 
 

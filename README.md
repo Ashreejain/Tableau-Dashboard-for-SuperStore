@@ -37,7 +37,7 @@ https://help.tableau.com/current/pro/desktop/en-us/environ_workbooksandsheets.ht
 
 ![alt text](https://github.com/Ashreejain/Tableau-Dashboard-for-SuperStore/blob/main/Dashboard.png)
 
-## Here is the link for the original dashboad which can be used for practise purpose.
+## Here is the link for the original dashboard which can be used for practise purpose.
 
 https://github.com/Ashreejain/Tableau-Dashboard-for-SuperStore/blob/main/Dashboard.twbx
 
